@@ -1,0 +1,12 @@
+{
+  "name": "Prototype Cube Cóude",
+  "short_name": "Protocubecóude",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2b7a78",
+  "icons": [
+    { "src": "/img/logo.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/img/logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
